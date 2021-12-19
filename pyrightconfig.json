@@ -1,0 +1,4 @@
+{
+  "reportMissingImports": "error",
+  "reportGeneralTypeIssues": "information",
+}
